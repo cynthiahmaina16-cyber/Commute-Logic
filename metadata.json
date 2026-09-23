@@ -1,0 +1,6 @@
+{
+  "name": "Commute Logic - Conditional Decision Simulator",
+  "description": "Interactive conditional logic simulator and decision tree evaluator for travel feasibility algorithms based on distance, weather, and transport modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
